@@ -15,7 +15,7 @@ visit https://docs.github.com/en/rest/authentication/authenticating-to-the-rest-
 
 
 ### Running tests
-1. Populate your username and token in appsettings.json file
+1. Populate your username and token of GitHub in appsettings.json file
 2. Build the solution
 3. In menu below open Test->Test Explorer
 4. Click 'Run' for running all tests or right click on the test which you'd like to run
